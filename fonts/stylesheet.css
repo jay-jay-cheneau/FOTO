@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Zona Pro';
+    src: url('/fonts/ZonaPro-Bold.eot');
+    src: url('/fonts/ZonaPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/ZonaPro-Bold.woff2') format('woff2'),
+        url('/fonts/ZonaPro-Bold.woff') format('woff'),
+        url('/fonts/ZonaPro-Bold.ttf') format('truetype'),
+        url('/fonts/ZonaPro-Bold.svg#ZonaPro-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zona Pro';
+    src: url('/fonts/ZonaPro-ExtraLight.eot');
+    src: url('/fonts/ZonaPro-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/ZonaPro-ExtraLight.woff2') format('woff2'),
+        url('/fonts/ZonaPro-ExtraLight.woff') format('woff'),
+        url('/fonts/ZonaPro-ExtraLight.ttf') format('truetype'),
+        url('/fonts/ZonaPro-ExtraLight.svg#ZonaPro-ExtraLight') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
